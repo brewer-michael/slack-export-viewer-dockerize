@@ -1,0 +1,7 @@
+version: 'latest'
+services:
+  slack-viewer:
+    image : stable
+    container_name: slack-viewer
+    ports:
+      - 8899:8899

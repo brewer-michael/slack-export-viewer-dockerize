@@ -70,3 +70,6 @@ target/
 
 # Environments
 venv/
+
+# Slack history
+tests/my-workspace.zip
